@@ -208,4 +208,4 @@ else:
             print("letter is A")
  
         else:
-            print("letter isn't A, B and C")
+            print("leter isn't A, B and C")
